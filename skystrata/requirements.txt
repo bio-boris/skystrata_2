@@ -1,0 +1,8 @@
+Django==2.1.1
+django-bootstrap4==0.0.7
+django-environ==0.4.5
+django-tag-parser==2.1
+dominate==2.1.17
+psycopg2==2.7.5
+psycopg2-binary==2.7.5
+pytz==2018.5

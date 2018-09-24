@@ -1,0 +1,28 @@
+DEBUG:root:Begin Log
+INFO:root:Token:61603909486a7cedb3a36fbcc3379b1db381ce10
+INFO:root:URL:http://127.0.0.1:8000/api/v1/instances/84/
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8000 "GET /api/v1/instances/84/ HTTP/1.1" 200 203
+INFO:root:Successful request
+INFO:root:{u'customer': 6, u'image': 1, u'uri': u'http://127.0.0.1:8000/api/v1/instances/84/', u'label': u'1', u'state': 2, u'end_time': u'2018-08-06T16:37:31.111562Z', u'template': 66, u'pk': 84, u'start_time': u'2018-08-06T16:37:31.111544Z'}
+DEBUG:root:Begin Log
+INFO:root:Token:61603909486a7cedb3a36fbcc3379b1db381ce10
+INFO:root:URL:http://127.0.0.1:8000/api/v1/instances/84/
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8000 "GET /api/v1/instances/84/ HTTP/1.1" 200 203
+INFO:root:Successful request
+INFO:root:<Response [200]>
+DEBUG:root:Begin Log
+INFO:root:Token:61603909486a7cedb3a36fbcc3379b1db381ce10
+INFO:root:URL:http://127.0.0.1:8000/api/v1/instances/84/
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8000 "GET /api/v1/instances/84/ HTTP/1.1" 200 203
+INFO:root:Successful request
+INFO:root:None
+DEBUG:root:Begin Log
+INFO:root:Token:61603909486a7cedb3a36fbcc3379b1db381ce10
+INFO:root:URL:http://127.0.0.1:8000/api/v1/instances/84/
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8000 "GET /api/v1/instances/84/ HTTP/1.1" 200 203
+INFO:root:Successful request
+INFO:root:{u'customer': 6, u'image': 1, u'uri': u'http://127.0.0.1:8000/api/v1/instances/84/', u'label': u'1', u'state': 2, u'end_time': u'2018-08-06T16:37:31.111562Z', u'template': 66, u'pk': 84, u'start_time': u'2018-08-06T16:37:31.111544Z'}
